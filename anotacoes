@@ -1,0 +1,6 @@
+Anotações do curso Ruby on Rails da Udemy
+
+
+Scaffold cria o CRUD padrão
+
+rails generate scaffold <NomeTabela> <coluna:tipo> <coluna:tipo> ... 
